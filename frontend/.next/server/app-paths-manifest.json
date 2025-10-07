@@ -1,12 +1,7 @@
 {
-  "/addnewmovie/[listid]/page": "app/addnewmovie/[listid]/page.js",
   "/home/page": "app/home/page.js",
   "/list/[listid]/page": "app/list/[listid]/page.js",
   "/lists/page": "app/lists/page.js",
-  "/login/page": "app/login/page.js",
-  "/movie/[movieid]/page": "app/movie/[movieid]/page.js",
   "/page": "app/page.js",
-  "/register/page": "app/register/page.js",
-  "/search/page": "app/search/page.js",
-  "/useraccount/page": "app/useraccount/page.js"
+  "/search/page": "app/search/page.js"
 }
