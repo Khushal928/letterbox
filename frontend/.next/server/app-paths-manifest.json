@@ -1,7 +1,1 @@
-{
-  "/home/page": "app/home/page.js",
-  "/list/[listid]/page": "app/list/[listid]/page.js",
-  "/lists/page": "app/lists/page.js",
-  "/page": "app/page.js",
-  "/search/page": "app/search/page.js"
-}
+{}
